@@ -14,6 +14,7 @@ function sum(n) {
 }
 
 console.log(sum(489))
+console.log(sum(429))
 
 
 
