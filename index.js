@@ -17,8 +17,12 @@ console.log(sum(489))
 console.log(sum(429))
 
 
+const a = "red"
+const b = "blue"
+// const c =
 
-
+console.log(a)
+console.log(b)
 
 
 
